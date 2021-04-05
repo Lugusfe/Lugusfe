@@ -1,4 +1,4 @@
-### Luís Ferreira 🐸
+## Luís Ferreira 🐸
 
 Desenvolvedor Front-end Júnior com conhecimento em HTML, CSS e JavaScript, atualmente estudando React.js, Node.js e PHP.
 
