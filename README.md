@@ -1,6 +1,6 @@
 ## Luís Ferreira 🐸
 
-Desenvolvedor Front-end Júnior com conhecimento em HTML, CSS e JavaScript, atualmente estudando React.js, Node.js e PHP.
+Desenvolvedor Fullstack com conhecimento em Typescript, atualmente trabalhando com React, Angular e Node.js.
 
 Cursando Design na Universidade Federal do Espírito Santo, conhecendo novas tecnologias e trabalhando em projetos baseados em temas que aprecio.
 
